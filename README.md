@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Luke 👋
 
-<!--
-**lukepapa-dev/lukepapa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💼 Transitioning into Data Science & AI entrepreneurship
+- 🧑‍💻 Currently learning Python, Machine Learning, and SaaS development
+- 🌏 Based in Melbourne, Australia
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (beginner → intermediate)
+- Data Analysis (Pandas, NumPy)
+- Machine Learning (scikit-learn, TensorFlow basics)
+- SQL & Data Visualization (Matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I’m Working On
+- Building my GitHub portfolio with Python projects
+- Creating a SaaS tool for water network data storage and AI dashboards
+- Learning step-by-step via Coursera & hands-on projects
+
+## 📫 Connect
+- [Email](lukepapa.work@gmail.com)
